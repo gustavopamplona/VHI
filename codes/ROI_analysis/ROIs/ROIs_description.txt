@@ -1,0 +1,41 @@
+ROI ID	Region			Peak coordinates
+
+ROI01	L IPS			-30 -50 +42	
+
+ROI02	R IPS			+40 -38 +44
+
+ROI03	L PMC (BA6)		-30 -12 +60
+
+ROI04	R PMC (BA6)		+26 -08 +56
+
+ROI05	L IOG			-34 -88 -10
+
+ROI06	R IOG			+36 -86 -12
+
+ROI07	L M1 (BA4)		-38 -18 +56
+
+ROI08	R M1 (BA4)		+38 -20 +62
+
+ROI09	SMA (BA4)		-02 -08 +66
+
+ROI10	L antIns		-35 +18 -01
+
+ROI11	R antIns		+38 +18 +00
+
+ROI12	L fusiform		-38 -48 -18
+
+ROI13	R fusiform		+40 -46 -18
+
+ROI14	L lingual		-14 -70 -04
+
+ROI15	R lingual		+18 -70 -06
+
+ROI16	L SMG			-62 -26 +32
+
+ROI17	R SMG			+58 -32 +40
+ROI18	L S1			-38 -37 +57
+
+ROI19	R S1			+39 -37 +58
+ROI20	L S2			-45 -16 +14
+
+ROI21	R S2			+49 -17 +16
